@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm Federico, a computer engineering student from Italy🇮🇹.
+
+- 🔭 I’m currently working on some `React.js` and `React Native` projects for my resumee
+- 🌱 I’m currently learning `React` and `Rust`
+- 🗣 Spoken languages: Italian🇮🇹 (native), English🇬🇧🇺🇸 (advanced)
+
 <!--
 **f-aguzzi/f-aguzzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
