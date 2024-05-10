@@ -2,11 +2,23 @@
 
 I'm Federico, a computer engineering student from Italy 🇮🇹.
 
-- 🔭 I’m currently working on some `React.js` and `React Native` projects for my resumee
-- 🌱 I’m currently learning `React` and `Rust`
-- 🗣 Spoken languages: Italian 🇮🇹 (native), English 🇬🇧🇺🇸 (advanced)
+- 🔭 I’m currently working on [my undergraduate thesis](https://github.com/f-aguzzi/tesi)
+- 🌱 I’m currently learning `React`, `Python` and `Rust`
+- 🗣 Spoken languages: Italian 🇮🇹 (native), English 🇬🇧🇺🇸 (advanced), French 🇫🇷 (intermediate)
 - 📫 How to reach me: 
   - ✉️ federico.aguzzi@federicoaguzzi.it
+
+<p float="center">
+<img
+  src="https://github-readme-stats.vercel.app/api?username=f-aguzzi&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"
+  width=38%
+  href="https://github.com/anuraghazra/github-readme-stats"
+/>
+<img
+  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=f-aguzzi&theme=transparent"
+  width=56%
+/>
+</p>
 
 <!--
 **f-aguzzi/f-aguzzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
