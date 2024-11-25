@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-I'm Federico, a computer engineering student from Italy 🇮🇹.
+I'm Federico, a master's computer engineering student from Italy 🇮🇹.
 
-- 🔭 I’m currently working on [my undergraduate thesis](https://github.com/f-aguzzi/tesi)
+- 🔭 I’m currently contributing to ![ScrapeGraphAI 🕷🕸](https://github.com/ScrapeGraphAI/Scrapegraph-ai)
 - 🌱 I’m currently learning `React`, `Python` and `Rust`
 - 🗣 Spoken languages: Italian 🇮🇹 (native), English 🇬🇧🇺🇸 (advanced), French 🇫🇷 (intermediate)
-- 📫 How to reach me: 
-  - ✉️ federico.aguzzi@federicoaguzzi.it
 
 <p float="center">
 <img
